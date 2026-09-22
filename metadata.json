@@ -1,0 +1,6 @@
+{
+  "name": "BeSafe - Scam & Malicious URL Scanner",
+  "description": "Multi-source link safety scanner cross-referencing VirusTotal, Google Safe Browsing, urlscan.io, domain verification, and crowd consensus with an explainable Scam Threat Index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
